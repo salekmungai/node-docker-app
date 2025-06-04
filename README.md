@@ -1,4 +1,4 @@
-# 🐳 Dockerized Node.js App
+#  Dockerized Node.js App
 
 A simple Express web app running inside Docker.
 
